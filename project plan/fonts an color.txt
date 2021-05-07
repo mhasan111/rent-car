@@ -1,0 +1,18 @@
+
+font-family: 'Merriweather', serif;
+
+Brand color: #ec3323
+
+1-banner
+2-form
+3-about
+4-service
+5-populer cars
+6-join comunity
+7-rent now
+8-How it works
+9-testimonial
+10-team part
+
+11-Blog
+12-contact
